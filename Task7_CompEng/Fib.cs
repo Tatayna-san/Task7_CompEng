@@ -9,7 +9,7 @@ namespace FibonacciNumbers
             int n = 10; // Количество чисел Фибоначчи, которые мы хотим вычислить
 
             int a = 0;
-            int b = 1
+            int b = 1;
 
             Console.WriteLine("Первые " + n + " чисел Фибоначчи:");
 
