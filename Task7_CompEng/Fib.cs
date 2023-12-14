@@ -2,8 +2,13 @@
 
 namespace FibonacciNumbers
 {
-    class Program
+    class Fib
     {
+        internal static int[] GetFibonacciNumbers(int n)
+        {
+            throw new NotImplementedException();
+        }
+
         static void Main(string[] args)
         {
             int n = 10; // Количество чисел Фибоначчи, которые мы хотим вычислить
