@@ -20,6 +20,6 @@ namespace FibonacciNumbers
                 a = b;
                 b = temp + b;
             }
-        }
+        
     }
 }
